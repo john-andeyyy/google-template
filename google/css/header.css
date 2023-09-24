@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgba(32, 33, 36, 1);
+}
+
+.header {
+    background-color: rgba(32, 33, 36, 1);
+
+}
+
+.right {
+    margin-top: -5px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    color: white;
+
+}
+
+
+.gmail {
+    padding-right: 15px;
+}
+
+.images {
+    padding: 10px 10px;
+}
+
+.dots {
+    margin-right: 14px;
+    width: 26px;
+}
+
+.profile {
+    border-radius: 20px;
+    height: 33px;
+    margin-right: 21px;
+    /* margin-top: -10px; */
+}
